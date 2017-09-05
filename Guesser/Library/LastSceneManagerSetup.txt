@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Guesser_LV1_WIP_UVU.unity
+  isLoaded: 1
+  isActive: 1

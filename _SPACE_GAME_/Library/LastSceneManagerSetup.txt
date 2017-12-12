@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/SPACE_GAME.unity
-  isLoaded: 1
-  isActive: 1
